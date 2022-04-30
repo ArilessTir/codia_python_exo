@@ -1,0 +1,2 @@
+def Square(a):
+    pass
